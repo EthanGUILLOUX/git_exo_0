@@ -33,3 +33,4 @@ Auteurs :
  - Fabien Rozar
  - Florian Ethève
  - Ethan GUILLOUX
+ - Eliott Roche
